@@ -1,0 +1,178 @@
+
+cai<message><mesid>4</mesid><send_id>1</send_id><receiver_id>2</receiver_id><content>ghj</content><sendTime>2015-03-04 21:49:50</sendTime></message>
+cai<message><mesid>4</mesid><send_id>1</send_id><receiver_id>2</receiver_id><content>ghj</content><sendTime>2015-03-04 21:49:50</sendTime></message>
+cai<message><mesid>4</mesid><send_id>1</send_id><receiver_id>2</receiver_id><content>ghj</content><sendTime>2015-03-04 21:49:50</sendTime></message>
+cai<message><mesid>4</mesid><send_id>1</send_id><receiver_id>2</receiver_id><content>ghj</content><sendTime>2015-03-04 21:49:50</sendTime></message>
+cai<message><mesid>4</mesid><send_id>1</send_id><receiver_id>2</receiver_id><content>ghj</content><sendTime>2015-03-04 21:49:50</sendTime></message>
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('yingxuegu', '123')
+insert into user (user_name, password) value ('gxy', '123')
+insert into user (user_name, password) value ('jk', '234')
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('jkf', '45')
+insert into user (user_name, password) value ('df', 'ed')
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('', '')
+insert into user (user_name, password) value ('ca', 'ca')
+insert into user (user_name, password) value ('dfffff', '23')
+insert into user (user_name, password) value ('xz', 'er')
+insert into user (user_name, password) value ('bn', '123')
+insert into user (user_name, password) value ('bnn', '123')
+insert into user (user_name, password) value ('bnnn', '123')
+insert into user (user_name, password) value ('', '')
+user_id: 
+user_id: Array
+user_id: 22
+user_id: 23
+user_id: 23
+user_id: 25
+user_id: 22
+user_id: 4
+user_id: 23
+user_id: 22
+bn-xz-dsafsdf
+insert into messages (sender_id,receiver_id,content,sendTime) value (1, 1, 'dsafsdf',now())
+
+22-4-
+insert into messages (sender_id,receiver_id,content,sendTime) value (1, 1, '',now())
+
+--sdf
+insert into messages (sender_id,receiver_id,content,sendTime) value (1, 1, 'sdf',now())
+
+22-5-df
+insert into messages (sender_id,receiver_id,content,sendTime) value (1, 1, 'df',now())
+
+22-5-dfsafsdf
+insert into messages (sender_id,receiver_id,content,sendTime) value (1, 1, 'dfsafsdf',now())
+
+user_id: 22
+22-8-cxzv
+insert into messages (sender_id,receiver_id,content,sendTime) value (1, 1, 'cxzv',now())
+22-8-ghk
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '8', 'ghk',now())
+user_id: 22
+user_id: 22
+22-5-alksfjds
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', 'alksfjds',now())
+user_id: 23
+user_id: 5
+22-5-sdjfklsdfj
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', 'sdjfklsdfj',now())
+22-5-bn
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', 'bn',now())
+user_id: 22
+user_id: 5
+5-22-hello world
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '22', 'hello world',now())
+user_id: 22
+user_id: 5
+user_id: 22
+22-5-caca
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', 'caca',now())
+5-22-gh
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '22', 'gh',now())
+22-22-vm
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '22', 'vm',now())
+22-22-asf
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '22', 'asf',now())
+user_id: 22
+22-5-hj
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', 'hj',now())
+user_id: 22
+22-5-123
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', '123',now())
+22-5-caca
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', 'caca',now())
+user_id: 5
+5-22-fuck
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '22', 'fuck',now())
+22-5-caca
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', 'caca',now())
+user_id: 24
+24-22-e
+insert into messages (sender_id,receiver_id,content,sendTime) value ('24', '22', 'e',now())
+24-23-jsadfklj
+insert into messages (sender_id,receiver_id,content,sendTime) value ('24', '23', 'jsadfklj',now())
+5-22-youyou
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '22', 'youyou',now())
+user_id: 22
+22-23-sajdfklsjf
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '23', 'sajdfklsjf',now())
+user_id: 24
+24-22-ewr
+insert into messages (sender_id,receiver_id,content,sendTime) value ('24', '22', 'ewr',now())
+user_id: 22
+user_id: 5
+5-22-jjkk
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '22', 'jjkk',now())
+22-5-34
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', '34',now())
+5-6-asf
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '6', 'asf',now())
+user_id: 
+user_id: 6
+22-5-34
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', '34',now())
+user_id: 22
+22-23-dsfa
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '23', 'dsfa',now())
+user_id: 23
+23-5-123
+insert into messages (sender_id,receiver_id,content,sendTime) value ('23', '5', '123',now())
+user_id: 5
+user_id: 5
+5-22-gh
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '22', 'gh',now())
+user_id: 22
+5-22-ghcv
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '22', 'ghcv',now())
+5-23-df
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '23', 'df',now())
+5-23-cdsajf
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '23', 'cdsajf',now())
+5-22-ccddcdc
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '22', 'ccddcdc',now())
+22-5-safj
+insert into messages (sender_id,receiver_id,content,sendTime) value ('22', '5', 'safj',now())
+5-22-safjhsadfkhlh
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '22', 'safjhsadfkhlh',now())
+user_id: 22
+user_id: 5
+user_id: 22
+user_id: 2
+2-5-asd
+insert into messages (sender_id,receiver_id,content,sendTime) value ('2', '5', 'asd',now())
+user_id: 5
+5-2-123
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '2', '123',now())
+user_id: 2
+5-2-123dsaf
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '2', '123dsaf',now())
+2-2-sf
+insert into messages (sender_id,receiver_id,content,sendTime) value ('2', '2', 'sf',now())
+2-2-df
+insert into messages (sender_id,receiver_id,content,sendTime) value ('2', '2', 'df',now())
+2-2-df
+insert into messages (sender_id,receiver_id,content,sendTime) value ('2', '2', 'df',now())
+user_id: 5
+5-4-jkl
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '4', 'jkl',now())
+5-4-dsf
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '4', 'dsf',now())
+5-4-sdaf
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '4', 'sdaf',now())
+5-4-sdaf
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '4', 'sdaf',now())
+user_id: 5
+5-2-java php
+insert into messages (sender_id,receiver_id,content,sendTime) value ('5', '2', 'java php',now())
+user_id: 2
+2-5-df
+insert into messages (sender_id,receiver_id,content,sendTime) value ('2', '5', 'df',now())

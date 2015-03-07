@@ -1,0 +1,13 @@
+li{
+    color: blue;
+    font-size: 30pt;
+}
+
+li:hover{
+    color: green;
+    font-size: 40pt;
+}
+
+a{
+    color: red;
+}
