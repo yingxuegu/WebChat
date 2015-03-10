@@ -2,9 +2,9 @@
 //这是一个工具类
 class SqlHelper{
     public $conn;
-    public $dbname="Webchat";
+    public $dbname="WebChat";
     var $username="root";
-    var $password="root";
+    var $password="578819";
     public $host="localhost";
 
     //写个构造函数

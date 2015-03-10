@@ -4,12 +4,15 @@ require_once 'SqlHelper.php';
 $user = $_POST['username'];
 $passw = $_POST['passw'];
 $passm = $_POST['passm'];
-
+echo "a";
 //echo $user.$passw.$passm;
 
 $sql="insert into user (user_name, password) value ('$user', '$passw')";
+echo "b";
 $sqlHelper = new SqlHelper();
+echo "c";
 $a = $sqlHelper->excute_dml($sql);
+echo "d";
 if($a == 1)
 {
     echo "Congratulation   ";
